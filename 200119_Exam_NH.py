@@ -103,7 +103,7 @@ def mapGenome(G_file, R_file):                                      #return dict
     return(mapped)
 
 #call
-
+#test
 mapGenome("data/Ecoli_genome.fasta", "data/reads_new.fasta")
 
 
